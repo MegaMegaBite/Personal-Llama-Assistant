@@ -93,7 +93,7 @@ This command installs the necessary libraries to run your application.
 Now that everything is set up, you can run your Python CLI application with the following command:
 
 
-python Personal_Llama.py
+    python Personal_Llama.py
 
 
 **You have successfully set up the Python CLI application to interact with the LLaMA model! Now you can generate tailored responses based on your personalized prompt. If you have any questions or run into issues, feel free to reach out for assistance.**
