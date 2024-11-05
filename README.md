@@ -56,7 +56,7 @@ This command will fetch the model and make it available for use in your applicat
 
   Clone the repository (or simply download the .py file if you are sharing it directly):
 
-    git clone https://github.com/MegaMegaBite/Personal-Llama-Assistant.git
+    git clone https://github.com/MegaMegaBite/Personal-Offline-AI-Assistant.git
     
   Or just download the Personal_Llama.py file, just make sure it is saved in your desired directory.
 
@@ -92,7 +92,7 @@ This command installs the necessary libraries to run your application.
 Now that everything is set up, you can run your Python CLI application with the following command:
 
 
-    python Personal_Llama.py
+    python Personal_Assistant.py
 
 
 **You have successfully set up the Python CLI application to interact with the LLaMA model! Now you can generate tailored responses based on your personalized prompt. If you have any questions or run into issues, feel free to reach out for assistance.**
