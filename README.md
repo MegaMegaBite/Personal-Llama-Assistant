@@ -1,5 +1,4 @@
-# ***Setup Guide for Your Python CLI Application***
-
+# ***Setup Guide for Your Offline Local AI That Knows You***
 ## Introduction
 
 This Python CLI (Command Line Interface) application is designed to allow users to interact with the LLaMA (Large Language Model Meta AI) 3.2 model through a simple command-line interface. The application enables users to generate responses based on a personalized prompt, leveraging their background information to provide tailored responses.
@@ -57,9 +56,9 @@ This command will fetch the model and make it available for use in your applicat
 
   Clone the repository (or simply download the .py file if you are sharing it directly):
 
-    git clone https://github.com/MegaMegaBite/Personal-Llama-Assistant
-
-  Or if you are sharing a single file, just make sure it is saved in your desired directory.
+    git clone https://github.com/MegaMegaBite/Personal-Llama-Assistant.git
+    
+  Or just download the Personal_Llama.py file, just make sure it is saved in your desired directory.
 
 ## Step 4: Create a Personal Prompt
 
