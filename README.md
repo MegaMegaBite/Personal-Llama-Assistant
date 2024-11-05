@@ -57,7 +57,7 @@ This command will fetch the model and make it available for use in your applicat
 
   Clone the repository (or simply download the .py file if you are sharing it directly):
 
-    git clone <your-repository-url>
+    git clone https://github.com/MegaMegaBite/Personal-Llama-Assistant
 
   Or if you are sharing a single file, just make sure it is saved in your desired directory.
 
